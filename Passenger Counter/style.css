@@ -1,0 +1,32 @@
+body  {
+  background-image: url("https://media.istockphoto.com/vectors/bus-stop-vector-id864537802?k=20&m=864537802&s=170667a&w=0&h=_OyuC2kuTytpRh7z6FVOM37GiVuwGZXD07XxfUHXOcA=");
+	background-size: cover;
+	text-align: center;
+	font-family: Tahoma;
+	height: 100vh;
+
+}
+.container {
+	max-width: 80%;
+	margin: auto;
+	padding-top: 5hv;
+}
+
+h2 {
+	font-size: 50px;
+}
+button {
+	padding: 10px 20px;
+	margin: 0px, 0px, 5px, 0;
+	width: 150px;
+	color: white;
+	font-weight: bold;
+	border: 1 solid black;
+	border-radius: 5px;
+}
+#increment-btn {
+		background-color: #11bb3c;
+}
+#save-btn {
+		background-color: #e10531;
+}
